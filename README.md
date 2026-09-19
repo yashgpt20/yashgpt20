@@ -53,7 +53,7 @@ that connect mobile applications with robust backend systems.
   <img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
 </p>
 
-- Kotlin 
+- Kotlin
 - XML UI Development
 - Material Design
 - ViewBinding
@@ -131,7 +131,6 @@ My current focus is strengthening Java fundamentals,
 developing REST APIs, working with relational databases,
 and understanding server-side application architecture.
 
-
 ### Core Focus
 
 - Java & Spring Boot
@@ -174,27 +173,15 @@ containerization and cloud technologies.
 
 <div align="center">
 
-<a href="https://github.com/yashgpt20">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yashgpt20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Yash's GitHub Statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgpt20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Yash's Most Used Languages"/>
-
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashgpt20&theme=tokyonight" alt="GitHub Statistics"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=yashgpt20&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashgpt20&theme=tokyonight" alt="Languages Used by Repository"/>
 
-</div>
+<br/><br/>
 
----
-
-## 📈 Development Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgpt20&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashgpt20&theme=tokyonight" alt="GitHub Profile Details"/>
 
 </div>
 
@@ -208,7 +195,7 @@ containerization and cloud technologies.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/yashgpt">
+<a href="https://linkedin.com/in/yashgpt">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
